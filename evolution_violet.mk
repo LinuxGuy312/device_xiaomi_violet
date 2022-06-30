@@ -35,3 +35,9 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="violet"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Some Extra Stuffs.
+EVO_SUPPORT_URL := https://t.me/EvolutionXViolet
+EVO_SIGNED := true
+BUILD_USERNAME := kibria5
+BUILD_HOSTNAME := Evolution-X
