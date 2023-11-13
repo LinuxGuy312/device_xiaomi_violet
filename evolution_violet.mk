@@ -16,7 +16,7 @@ TARGET_ENABLE_BLUR := false
 EVO_BUILD_TYPE := OFFICIAL
 
 # MiuiCamera
-$(call inherit-product, vendor/MiuiCamera/config.mk)
+$(call inherit-product-if-exists, vendor/MiuiCamera/config.mk)
 
 # Bootanimation Resolution
 TARGET_BOOT_ANIMATION_RES := 1080
