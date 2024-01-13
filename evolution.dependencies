@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "vendor_xiaomi_violet",
+    "target_path": "vendor/xiaomi/violet"
+  },
+  {
+    "remote"      : "github",
+    "branch"      : "14",
+    "repository"  : "kibria5/android_kernel_xiaomi_violet",
+    "target_path" : "kernel/xiaomi/violet"
+  },
+  {
+    "remote"      : "gitlab",
+    "branch"      : "14",
+    "repository"  : "kibria5/vendor_xiaomi-firmware_violet",
+    "target_path" : "vendor/xiaomi-firmware/violet"
+  },
+  {
+    "remote"      : "gitlab",
+    "branch"      : "14",
+    "repository"  : "kibria5/android_vendor_MiuiCamera",
+    "target_path" : "vendor/MiuiCamera"
+  },
+  {
+    "remote"      : "gitlab",
+    "branch"      : "14",
+    "repository"  : "kibria5/android_prebuilts_clang_host_linux-x86_clang-r510928",
+    "target_path" : "prebuilts/clang/host/linux-x86/clang-r510928"
+  }
+]
