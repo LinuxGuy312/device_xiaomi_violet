@@ -6,9 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_violet.mk
-
-COMMON_LUNCH_CHOICES := \
-    derp_violet-eng \
-    derp_violet-userdebug \
-    derp_violet-user
+    $(LOCAL_DIR)/orion_violet.mk
