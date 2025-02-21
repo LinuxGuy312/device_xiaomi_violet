@@ -289,7 +289,6 @@ vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/hw/com.qti.chi.override_moorea.so
 vendor/lib64/libFaceGrade.so
-vendor/lib64/libMegviiFacepp-0.5.2.so
 vendor/lib64/libSNPE.so
 vendor/lib64/libVDSuperPhotoAPI.so;DISABLE_CHECKELF
 vendor/lib64/libXMFD_AgeGender.so
