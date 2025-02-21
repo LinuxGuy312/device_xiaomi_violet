@@ -4,6 +4,6 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/selfmusing/Derp_OTA/15/violet.json</string>
-<string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/selfmusing/Derp_OTA/15/changelogs_violet.txt</string>
+<string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/LinuxGuy312/Matrixx_OTA/15.0/violet.json</string>
+<string name="menu_changelog_url" translatable="false">https://raw.githubusercontent.com/LinuxGuy312/Matrixx_OTA/15.0/changelogs_violet.txt</string>
 </resources>
